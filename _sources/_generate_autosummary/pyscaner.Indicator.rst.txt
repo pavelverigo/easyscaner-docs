@@ -1,0 +1,33 @@
+pyscaner.Indicator
+==================
+
+.. currentmodule:: pyscaner
+
+.. autoclass:: Indicator
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Indicator.__init__
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Indicator.INDICATOR_OFF
+      ~Indicator.LEFT
+      ~Indicator.RIGHT
+      ~Indicator.UNDEFINED_INDICATOR
+      ~Indicator.name
+      ~Indicator.value
+   
+   

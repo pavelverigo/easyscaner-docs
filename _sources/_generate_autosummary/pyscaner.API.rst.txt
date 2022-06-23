@@ -1,0 +1,41 @@
+pyscaner.API
+============
+
+.. currentmodule:: pyscaner
+
+.. autoclass:: API
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~API.__init__
+      ~API.display_message
+      ~API.get_headway
+      ~API.get_road_vehicle_ids
+      ~API.get_road_vehicles
+      ~API.get_time
+      ~API.get_vehicle
+      ~API.get_vehicle_ids
+      ~API.get_vehicle_in_front
+      ~API.get_vehicle_in_front_by_id
+      ~API.get_vehicles
+      ~API.get_vehicles_in_lane
+      ~API.is_road_vehicle
+      ~API.log
+      ~API.on_init
+      ~API.on_vehicle_added
+      ~API.run
+      ~API.set_road_vehicle_types
+      ~API.set_sensor_wait_mode
+      ~API.while_running
+   
+   
+
+   
+   
+   

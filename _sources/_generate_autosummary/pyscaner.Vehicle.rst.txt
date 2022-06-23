@@ -1,0 +1,61 @@
+pyscaner.Vehicle
+================
+
+.. currentmodule:: pyscaner
+
+.. autoclass:: Vehicle
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~Vehicle.__init__
+      ~Vehicle.drive_on
+      ~Vehicle.filter_in
+      ~Vehicle.get_accel
+      ~Vehicle.get_accel_command
+      ~Vehicle.get_cruise_control_mode
+      ~Vehicle.get_cruise_control_target
+      ~Vehicle.get_direction
+      ~Vehicle.get_engine_status
+      ~Vehicle.get_horn
+      ~Vehicle.get_id
+      ~Vehicle.get_indicator
+      ~Vehicle.get_intersection
+      ~Vehicle.get_lane
+      ~Vehicle.get_laneWidth
+      ~Vehicle.get_lights
+      ~Vehicle.get_nearest_road_sign_in_lane
+      ~Vehicle.get_nearest_traffic_light_in_lane
+      ~Vehicle.get_num_of_lanes
+      ~Vehicle.get_pos
+      ~Vehicle.get_road
+      ~Vehicle.get_road_signs_in_lane
+      ~Vehicle.get_speed
+      ~Vehicle.get_speed_command
+      ~Vehicle.get_speed_vector
+      ~Vehicle.get_traffic_lights_in_lane
+      ~Vehicle.get_type
+      ~Vehicle.get_wheel_angle
+      ~Vehicle.in_intersection
+      ~Vehicle.pull_out
+      ~Vehicle.reset_accel
+      ~Vehicle.reset_lane
+      ~Vehicle.reset_speed
+      ~Vehicle.set_accel
+      ~Vehicle.set_max_accel
+      ~Vehicle.set_max_speed
+      ~Vehicle.set_pos
+      ~Vehicle.set_speed
+      ~Vehicle.try_filter_in
+      ~Vehicle.try_pull_out
+   
+   
+
+   
+   
+   

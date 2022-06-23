@@ -1,0 +1,44 @@
+pyscaner.VType
+==============
+
+.. currentmodule:: pyscaner
+
+.. autoclass:: VType
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~VType.__init__
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~VType.AIRPLANE
+      ~VType.ALIVEBEING
+      ~VType.BICYCLE
+      ~VType.BUS
+      ~VType.CAR
+      ~VType.MOTORBIKE
+      ~VType.PEDESTRIAN
+      ~VType.RIGID
+      ~VType.SEMI_TRAILER
+      ~VType.STATIC_OBJECT
+      ~VType.TRACTOR
+      ~VType.TRAILER
+      ~VType.TRAIN
+      ~VType.TRAM
+      ~VType.UNKNOWN_TYPE
+      ~VType.name
+      ~VType.value
+   
+   

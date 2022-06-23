@@ -1,0 +1,32 @@
+pyscaner.SensorWaitMode
+=======================
+
+.. currentmodule:: pyscaner
+
+.. autoclass:: SensorWaitMode
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~SensorWaitMode.__init__
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~SensorWaitMode.DELAY_RUN
+      ~SensorWaitMode.FREEZE_VEHICLES
+      ~SensorWaitMode.NO_WAIT
+      ~SensorWaitMode.name
+      ~SensorWaitMode.value
+   
+   

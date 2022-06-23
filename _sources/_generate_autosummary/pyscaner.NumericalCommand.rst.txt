@@ -1,0 +1,29 @@
+pyscaner.NumericalCommand
+=========================
+
+.. currentmodule:: pyscaner
+
+.. autoclass:: NumericalCommand
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~NumericalCommand.__init__
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~NumericalCommand.active
+      ~NumericalCommand.value
+   
+   

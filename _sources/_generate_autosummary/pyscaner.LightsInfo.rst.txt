@@ -1,0 +1,37 @@
+pyscaner.LightsInfo
+===================
+
+.. currentmodule:: pyscaner
+
+.. autoclass:: LightsInfo
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~LightsInfo.__init__
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~LightsInfo.dipped_lights
+      ~LightsInfo.fog_lights
+      ~LightsInfo.full_lights
+      ~LightsInfo.left_dlr_lights
+      ~LightsInfo.left_indicator
+      ~LightsInfo.rear_fog_lights
+      ~LightsInfo.rear_lights
+      ~LightsInfo.right_dlr_lights
+      ~LightsInfo.right_indicator
+      ~LightsInfo.stop_lights
+   
+   

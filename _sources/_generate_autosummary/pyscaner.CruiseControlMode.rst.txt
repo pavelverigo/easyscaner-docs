@@ -1,0 +1,33 @@
+pyscaner.CruiseControlMode
+==========================
+
+.. currentmodule:: pyscaner
+
+.. autoclass:: CruiseControlMode
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~CruiseControlMode.__init__
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~CruiseControlMode.CRUISE_CONTROL
+      ~CruiseControlMode.CRUISE_CONTROL_OFF
+      ~CruiseControlMode.SPEED_LIMITER
+      ~CruiseControlMode.UNDEFINED_CRUISE_CONTROL_MODE
+      ~CruiseControlMode.name
+      ~CruiseControlMode.value
+   
+   
